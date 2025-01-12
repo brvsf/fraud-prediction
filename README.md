@@ -58,7 +58,7 @@ Ensure the following are installed:
 - Python 3.10 or later
 - Required Python packages:
   ```bash
-  pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+  pip install -r requirements.txt
 
 ### Steps
 
